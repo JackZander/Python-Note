@@ -1,0 +1,4 @@
+- 1.4.1
+- Python2.X 已经是遗产，Python3.X 是这个语言的现代和未来。
+- 1.4.2
+- Python运行方式有两种：交互式和文件式。交互式运行：cmd & IDLE，文件式运行:cmd运行 X.py & IDLE运行 X.py。
