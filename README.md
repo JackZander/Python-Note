@@ -1,6 +1,6 @@
 # Python学习笔记
 ***
-## 参考书籍：《Python语言程序设计基础》第2版
+##### 参考书籍：《Python语言程序设计基础》第2版 [购买地址](http://www.hep.com.cn/book/details?uuid=56ed1a12-1515-1000-a9a4-8b199bb65ff2)
 ***
 - ## 1 程序设计基础
  - ### 1.1 [计算机的概念](https://github.com/JackZander/Python-Note/blob/master/1.1%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E6%A6%82%E5%BF%B5.md)
