@@ -9,3 +9,4 @@
  - ### 1.4 [Python语言开发环境配置](https://github.com/JackZander/Python-Note/blob/master/1.4Python%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.md)
  - ### 1.5 [程序的基本编写方式](https://github.com/JackZander/Python-Note/blob/master/1.5%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BC%96%E5%86%99%E6%96%B9%E6%B3%95.md)
  - ### 1.6 [Python语言的版本更迭](https://github.com/JackZander/Python-Note/blob/master/1.6%20Python%E8%AF%AD%E8%A8%80%E7%9A%84%E7%89%88%E6%9C%AC%E6%9B%B4%E8%BF%AD.md)
+ - ### 1.7 [第1章程序练习题](https://github.com/JackZander/Python-Note/tree/master/1%20%E7%A8%8B%E5%BA%8F%E7%BB%83%E4%B9%A0%E9%A2%98)
