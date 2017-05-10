@@ -1,0 +1,16 @@
+import turtle
+def lines():
+    turtle.penup()
+    turtle.fd(20)
+    turtle.pendown()
+    turtle.fd(60)
+    turtle.penup()
+    turtle.fd(20)
+    turtle.pendown()
+lines()
+turtle.seth(90)
+lines()
+turtle.seth(180)
+lines()
+turtle.seth(-90)
+lines()
