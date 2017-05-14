@@ -18,3 +18,4 @@
   - ### 2.5 [Chapter2 exercises](https://github.com/JackZander/Python-Note/blob/master/Chapter2%20exercises/readme)
 - ## 3 基本数据类型
   - ### 3.1 [数字类型](https://github.com/JackZander/Python-Note/blob/master/3.1%20数字类型.md)
+  - ### 3.2 [数字类型的操作](https://github.com/JackZander/Python-Note/blob/master/3.2%20数字类型的操作.md)
