@@ -20,3 +20,4 @@
   - ### 3.1 [数字类型](https://github.com/JackZander/Python-Note/blob/master/3.1%20数字类型.md)
   - ### 3.2 [数字类型的操作](https://github.com/JackZander/Python-Note/blob/master/3.2%20数字类型的操作.md)
   - ### 3.3 [模块1：math库的使用](https://github.com/JackZander/Python-Note/blob/master/3.3%20模块1：math库的使用.md)
+  - ### 3.4 [实例3：天天向上的力量](https://github.com/JackZander/Python-Note/tree/master/3.4)
